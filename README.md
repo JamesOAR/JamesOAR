@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesOAR
 - 👀 I’m interested in machine learning, building web applications, geometric modeling, image processing
 - 🌱 I’m currently learning data science & machine learning
-- 💞️ I’m looking to collaborate on cool intresting projects
+- 💞️ I’m looking to collaborate on projects related to data science web and cloud applications
 - 📫 How to reach me email:jamoose34@yahoo.com
 
 <!---
